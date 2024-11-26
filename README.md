@@ -1,6 +1,4 @@
 
-# 30 Days ML Challenge (BreakInto Data)
----
 # Football Goals Prediction Model
 
 ## Overview
